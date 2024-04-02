@@ -191,7 +191,7 @@ print('clicked search button')
 wait = WebDriverWait(driver, 10)
 '''CHANGE PAGE RANGE ACCORDINGLY IN range() FUNCTION'''
 # CHANE THE PAGENATION RANGE HERE : DEFAULT IS 1 TO 27 PAGES
-for page_number in range(2, 28):  # Assuming there are 28 pages, adjust the range accordingly
+for page_number in range(1, 28):  # Assuming there are 28 pages, adjust the range accordingly
     try:
         # Find pagination link for the current page number
         pagination_link = wait.until(EC.element_to_be_clickable((By.XPATH, f'//ul[@class="pagination"]/li/a[text()="{page_number}"]')))  
