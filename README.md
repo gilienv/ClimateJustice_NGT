@@ -4,6 +4,11 @@
 
 </center>
 
+<span style="font-family: 'Source Code Pro', monospace;"># Green Tribunal Case Details Scrapper</span>
+
+<h1 align="center" id="title">Green Tribunal Case Details Scrapper</h1>
+
+
 
 <p align="center"><img src="https://socialify.git.ci/KAMRANKHANALWI/ClimateJustice/image?description=1&amp;descriptionEditable=&amp;font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
 
