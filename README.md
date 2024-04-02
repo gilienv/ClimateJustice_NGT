@@ -47,3 +47,8 @@ This Python script is designed to extract case details from [National Green Trib
 ## Important Notes
 - Ensure an active internet connection as the script interacts with a live website.
 - The script assumes the structure of the website remains unchanged. Any changes in the website structure may require modifications to the XPath expressions used in the script.
+
+  Certainly! Here's the updated section:
+
+## Support and Assistance
+If you encounter any difficulties during the process of downloading dependencies or executing the Python scripts, feel free to reach out for assistance. You can contact me via email at [khankamranalwi@gmail.com](mailto:khankamranalwi@gmail.com) or message me on WhatsApp at [+91 9304816286](https://wa.me/919304816286). I'm here to help you resolve any issues and ensure a smooth experience with the setup and usage of the provided scripts.
