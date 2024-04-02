@@ -1,4 +1,9 @@
-<center># Green Tribunal Case Details Scrapper</center>
+<center>
+
+# Green Tribunal Case Details Scrapper
+
+</center>
+
 
 <p align="center"><img src="https://socialify.git.ci/KAMRANKHANALWI/ClimateJustice/image?description=1&amp;descriptionEditable=&amp;font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
 
