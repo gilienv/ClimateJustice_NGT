@@ -151,6 +151,10 @@ img_download_path = f'CaptchaImg/{current_datetime}.png'
 screenshot = driver.get_screenshot_as_png()
 image = Image.open(BytesIO(screenshot))
 
+# Save screenshot to a file
+with open('CaptchaImg/screenshot.png', 'wb') as f:
+    f.write(screenshot)
+
 crop_image = (1600, 680, 2000, 750)
 cropped_image = image.crop(crop_image)
 cropped_image.save(img_download_path) 
