@@ -1,7 +1,10 @@
-# Green Tribunal Case Details Scrapper
+# Green Tribunal Case Records Scraper
 
 
 <p align="center"><img src="https://socialify.git.ci/KAMRANKHANALWI/ClimateJustice/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
+
+
+A short internship project at the interface of **#SemanticClimate** and **#IndiaJusticeReports** conducted at **#NIPGR** New Delhi.
 
 
 This Python script is designed to extract case details from [National Green Tribunal](https://www.greentribunal.gov.in/judgementOrder/zonalbenchwise) website using Selenium WebDriver and save them to a CSV file. The script navigates through the website, enters search parameters, solves CAPTCHA, extracts case details, and saves them to a CSV file.
